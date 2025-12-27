@@ -1,1 +1,7 @@
-# KinoCalendar_website
+# KinoCalendar
+
+For seeing movies in theaters
+
+---
+
+![logo.png](logo.png)
