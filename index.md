@@ -1,4 +1,18 @@
-![logo.png](logo.png)
+---
+pagetitle: KinoCalendar
+header-includes: |
+  <style>
+  html {
+      font-family: bitter, sans-serif;
+  }
+  body {
+      hyphens: none;
+      max-width: 50em;
+  }
+  </style>
+---
+
+![](logo.png)
 
 ---
 
